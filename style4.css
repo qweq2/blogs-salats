@@ -1,0 +1,36 @@
+body{
+    background-image: url('https://catherineasquithgallery.com/uploads/posts/2021-02/1613681228_2-p-fon-dlya-prezentatsii-pravilnoe-pitanie-2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover ;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1580px;
+}
+.menu {
+    width: 1300px;
+    height: 110px;
+    margin-left: 20px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(201, 193, 201);
+    border-radius: 10px;
+    padding-left: 5px;
+}
+.ssilky{
+padding-right: 30px;
+}
+a{
+    color: black;
+}
+.glavnoe{
+    padding-top: 35px;
+    font-size:35px ;
+}
+ul{
+     margin-left: 30px;
+}
+.perehody{
+    font-size: 20px;
+    margin-left: 20px;
+}
